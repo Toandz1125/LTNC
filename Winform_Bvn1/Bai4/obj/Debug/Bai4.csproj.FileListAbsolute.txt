@@ -1,0 +1,11 @@
+D:\C#\LTNC\Winform_1\Bai4\bin\Debug\Bai4.exe.config
+D:\C#\LTNC\Winform_1\Bai4\bin\Debug\Bai4.exe
+D:\C#\LTNC\Winform_1\Bai4\bin\Debug\Bai4.pdb
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.frmTinhToan.resources
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.exe
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.pdb
+D:\C#\LTNC\Winform_1\Bai4\obj\Debug\Bai4.exe.config
